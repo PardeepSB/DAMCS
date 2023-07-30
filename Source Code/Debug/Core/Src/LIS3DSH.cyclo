@@ -1,0 +1,6 @@
+../Core/Src/LIS3DSH.c:40:16:SPI1_WriteRead	2
+../Core/Src/LIS3DSH.c:58:6:ACCELERO_IO_Read	1
+../Core/Src/LIS3DSH.c:78:6:ACCELERO_IO_Write	1
+../Core/Src/LIS3DSH.c:95:6:ACCELERO_Init	1
+../Core/Src/LIS3DSH.c:116:6:ACCELERO_GetXYZ	5
+../Core/Src/LIS3DSH.c:141:6:calcAngles	1
