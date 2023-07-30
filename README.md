@@ -20,7 +20,7 @@ This project aims to create a real-time control system using an STM32F407VGTx mi
 
 ## Demo
 
-https://media.github.sfu.ca/user/440/files/0515dd3e-aeea-49bd-84e2-13ac9ba43ab5
+https://github.com/PardeepSB/DAMCS/assets/73859429/ca1cac72-fa9f-4c6b-aeb6-6b13e790545c
 
 ## Main Parts of Code and Design
 
