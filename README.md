@@ -1,4 +1,4 @@
-# MSE450-Group3
+# Dynamic Altitude and Motion Control System
 
 ## About
 
